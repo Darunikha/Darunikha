@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 💫 About Me:
+# About Me:
 Hi, I'm Darunikha<br><br>I am a UI/UX Developer and an MSc Software Systems student with a strong interest in designing intuitive, user-centered digital experiences. I enjoy combining design thinking with technology to create interfaces that are functional, accessible, and visually appealing.<br><br> About Me<br><br>* MSc Software Systems student<br><br>* UI/UX Developer with an interest in user-centered design and front-end development<br><br>* Skilled in wireframing, prototyping, and responsive interface design<br><br>* Continuously learning modern design practices and emerging technologies<br><br>* Open to UI/UX Design, Front-End Development, and Software Development internship opportunities<br><br>I am passionate about solving real-world problems through thoughtful design and effective implementation. I am always eager to learn, collaborate, and contribute to impactful projects while expanding my technical and creative skills.<br>
 
 
